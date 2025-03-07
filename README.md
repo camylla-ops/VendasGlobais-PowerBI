@@ -1,4 +1,4 @@
-# 🌍 Global Sales Analytics Dashboard | Power BI
+#  Global Sales Analytics Dashboard | Power BI
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-0083B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis)
