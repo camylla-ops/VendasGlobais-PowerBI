@@ -4,7 +4,7 @@
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-0083B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis)
 [![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FF6F61?style=for-the-badge)](https://en.wikipedia.org/wiki/Business_intelligence)
 
-![Dashboard Preview](dash/vendasglobais.png)
+![Dashboard Preview](vendasglobais.png)
 
 **Dashboard Interativo:** [Acesse Aqui](https://app.powerbi.com/view?r=eyJrIjoiYTE3NjMyMDEtNGZjNi00OWNhLWJjNmItN2ZhNDYwMjc0YmVjIiwidCI6IjE5ZDk1YzVmLTkwOGMtNDdkYS05NTllLTdhMTk3ZjUyOGZmOSJ9)
 
